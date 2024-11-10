@@ -1,1 +1,7 @@
-
+Torch version: 2.5.0+cu121
+Argparse version: Standard library, no version attribute
+Pandas version: 2.2.2
+Scikit-learn version: 1.5.2
+Matplotlib version: 3.8.0
+Numpy version: 1.26.4
+Random module: Standard library, no version attribute
